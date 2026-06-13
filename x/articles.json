@@ -134,6 +134,36 @@
       "link": "say.itgirl.lol/abc",
       "live": true,
       "contents": "this is where the article contents goes, it will be the largest part of the json bit. i am typing a lot to make sure that it is very long and very accurate! hello friends its me woah what the sigma oh also this should include html stuff actaully so that it can be <b>bold</b> and you can do <br><br> to make it on a new line! okay thanks for skibidi ing"
+    },
+    {
+      "id": "00008",
+      "category": "hot goss",
+      "title": "testttt",
+      "tagline": "testttt",
+      "thumbnail": "/x/images/articles/thumbnails/00008.png",
+      "date": "2026-06-13",
+      "author": "testttt",
+      "tags": [
+        "testttt"
+      ],
+      "link": "say.itgirl.lol",
+      "live": true,
+      "contents": "testttt"
+    },
+    {
+      "id": "00009",
+      "category": "hot goss",
+      "title": "a",
+      "tagline": "a",
+      "thumbnail": "/x/images/articles/thumbnails/00009.png",
+      "date": "2026-06-13",
+      "author": "a",
+      "tags": [
+        "a"
+      ],
+      "link": "say.itgirl.lol",
+      "live": true,
+      "contents": "aaaaa"
     }
   ]
 }
