@@ -328,7 +328,7 @@ footer {
     display: none;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 720px) {
     .screen-warning {
         display: flex;
         justify-content: center;
